@@ -6,7 +6,7 @@ public class Writer {
     private final String fileName;
 
     public Writer(String fileName) {
-         this.fileName = "ToySrore" + fileName + ".txt";
+         this.fileName = "ToyStore" + fileName + ".txt";
          }
 
     public void write() {
